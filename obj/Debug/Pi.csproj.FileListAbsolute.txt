@@ -1,0 +1,7 @@
+C:\Users\mrlma\source\repos\Pi\Pi\bin\Debug\Pi.exe.config
+C:\Users\mrlma\source\repos\Pi\Pi\bin\Debug\Pi.exe
+C:\Users\mrlma\source\repos\Pi\Pi\bin\Debug\Pi.pdb
+C:\Users\mrlma\source\repos\Pi\Pi\obj\Debug\Pi.csprojAssemblyReference.cache
+C:\Users\mrlma\source\repos\Pi\Pi\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\Pi\Pi\obj\Debug\Pi.exe
+C:\Users\mrlma\source\repos\Pi\Pi\obj\Debug\Pi.pdb
